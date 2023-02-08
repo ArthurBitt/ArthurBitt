@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de sistemas pela instituição FIAP. Pos
 </p>
 </div>
 
-### Tech Stack 🌐
+### Languages 🌐
 
 <div>
  <div align="left">
