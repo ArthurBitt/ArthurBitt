@@ -1,18 +1,16 @@
+
+<h1 align="center"><strong>Bem vindo ao meu github!</h1>
+ 
 <p align="center">
  <img width="100px" src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
 </p>
 
-<h1><strong>Bem vindo ao meu github!</h1>
-
-<h3>Arthur Bittencourt</h3>
 
 
-<div>
  <p>
-Estudante de Análise e Desenvolvimento de sistemas pela instituição FIAP. Possuo interesse em desenvolvimento web e Front-end, áreas nas quais tenho aprofundado meus estudos.
+Sou Arthur, estudante de Análise e Desenvolvimento de sistemas fullstack pela instituição FIAP. Possuo interesse em desenvolvimento web e Front-end, área na qual tenho estudado com maior profundidade.
 </p>
-</div>
+
 
 ### Languages 🌐
 
