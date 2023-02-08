@@ -2,8 +2,8 @@
  <img width="100px" src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
-
-### Olá,sou [Arthur Bittencourt](website), bem vindo ao meu github!
+###Bem vindo ao meu github!
+###sou [Arthur Bittencourt](website)
 
 
 <div>
