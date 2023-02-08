@@ -53,4 +53,4 @@ Sou estudante de Análise e Desenvolvimento de sistemas pela instituição FIAP.
 </p>
 
 
-
+<img src="https://github.com/ArthurBitt/ArthurBitt/blob/main/snake.svg" alt="Snake animation" />
