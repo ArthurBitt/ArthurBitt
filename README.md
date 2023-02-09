@@ -1,11 +1,10 @@
 
+<div align="center">
+ <img  width="100px" src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw"  alt="Github Readme Stats"/></div>
+
+
+
 <h1 align="center"><strong>Bem vindo ao meu github!</h1>
- 
-<p align="center">
- <img width="100px" src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw" align="center" alt="Github Readme Stats" />
-</p>
-
-
 
  <p>
 Sou Arthur, estudante de Análise e Desenvolvimento de sistemas fullstack pela instituição FIAP. Possuo interesse em desenvolvimento web e Front-end, área na qual tenho estudado com maior profundidade.
@@ -31,9 +30,7 @@ Sou Arthur, estudante de Análise e Desenvolvimento de sistemas fullstack pela i
 
 <h3>Courses and Certifications 📜</h3>
  
-<div align="left">
-  <p><a href="https://cursos.alura.com.br/user/arthur-bittencourt1997" style="text-decorator:none;">Alura</a></p>
-</div>
+ - [Alura](https://cursos.alura.com.br/user/arthur-bittencourt1997)
 
 <hr>
 
