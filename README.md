@@ -38,9 +38,9 @@ Sou Arthur, estudante de Análise e Desenvolvimento de sistemas fullstack pela i
  
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=10&theme=tokyonight&layout=compact" alt="ArthurBitt :: Top Langs" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ArthurBitt&show_icons=true&theme=synthwave" alt="ArthurBitt :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ArthurBitt&show_icons=true&theme=tokyonight" alt="ArthurBitt :: Profile Stats" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=tokyonight" alt="ArthurBitt" /></p>
 
 <h2 align="left" >🔷 Connect with Me</h2>
 
