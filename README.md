@@ -11,9 +11,9 @@ Sou Arthur, estudante de Análise e Desenvolvimento de sistemas fullstack pela i
   
 <div align="center">
 
-  ### Languages 🌐
+  Languages 🌐
 
-  <div>
+  
    <br>
    <div>
    <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@ Sou Arthur, estudante de Análise e Desenvolvimento de sistemas fullstack pela i
    <img src="https://img.shields.io/badge/python-022047?style=for-the-badge&logo=python&logoColor="/> 
    </div>
 <br>
-  ### Tools 🛠️
+  Tools 🛠️
 
   <div>
    <br>
