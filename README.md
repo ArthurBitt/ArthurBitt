@@ -7,7 +7,7 @@
 
 
  <p>
-Sou Arthur, estudante de Análise e Desenvolvimento de sistemas fullstack pela instituição FIAP. Possuo interesse em desenvolvimento Python fullstack e front-end. Atualmente, estou estudando bancos de dados relacionais e HTTP, com o intuito de me aperfeiçoar no desenvolvimento de API'S com frameworks python.
+Sou Arthur, estudante de Análise e Desenvolvimento de sistemas pela instituição FIAP. Possuo interesse em desenvolvimento Python e Data Science. Atualmente, estou estudando a linguagem python para Data Science, bancos de dados relacionais e HTTP, com o intuito de me aperfeiçoar no desenvolvimento de API'S com frameworks python e em bibliotecas como Pandas, Matplotlib e Seaborn.
   
 <div align="center">
 
