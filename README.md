@@ -18,7 +18,6 @@ Sou Arthur, estudante de Análise e Desenvolvimento de sistemas pela instituiç�
    <div>
    <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
    <img src="https://img.shields.io/badge/python-022047?style=for-the-badge&logo=python&logoColor="/> 
    </div>
 <br>
