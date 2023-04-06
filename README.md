@@ -26,6 +26,7 @@ Sou Arthur, estudante de Análise e Desenvolvimento de sistemas pela instituiç�
   <div>
    <br>
    <img src="https://img.shields.io/badge/flask-024704?style=for-the-badge&logo=flask&logoColor=black"/> 
+   <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=Pandas&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy&logoColor=black"/>
    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
