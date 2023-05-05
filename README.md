@@ -1,6 +1,10 @@
+ <img width="100%" height="500px" src="https://fronty.com/static/uploads/python/html.png"  alt="Github Readme Stats"/>
+
 <div style="display: inline-block">
  <img  width="100px" src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw"  alt="Github Readme Stats"/> <h1><strong>Bem vindo ao meu github!</h1>
 </div>
+
+ 
 
  <p>Sou Arthur,estou no 3º semestre de Análise e Desenvolvimento de Sistemasna pela FIAP, constantemente procuro expandir meus conhecimentos em tecnologia com forte interesse em Desenvolvimento Java.
 
