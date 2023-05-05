@@ -6,9 +6,22 @@
 <h1 align="center"><strong>Bem vindo ao meu github!</h1>
 
 
- <p>
-Sou Arthur, estudante de Análise e Desenvolvimento de sistemas pela instituição FIAP. Possuo interesse em desenvolvimento Python e Data Science. Atualmente, estou estudando a linguagem python para Data Science, bancos de dados relacionais e HTTP, com o intuito de me aperfeiçoar no desenvolvimento de API'S com frameworks python e em bibliotecas como Pandas, Matplotlib e Seaborn.
-  
+ <p>Sou Arthur, estudante  de Análise e Desenvolvimento de Sistemas, estou constantemente procurando expandir meus conhecimentos em tecnologia com forte interesse em Desenvolvimento Java.
+
+Na faculdade:
+
+As linguagens que tive maior contato até o momento foram o Java e o Python para backend de aplicações. Já para o frontend, estudei até o momento JS, HTML e CSS. O SGBD Oracle SQL developer foi a ferramenta que utilizei para estudar as divisões da linguegem SQL até o momento. 
+
+Fora da faculdade:
+
+.Nano course de Python com certificação de 80h emitido pela FIAP 
+
+.Curso de imersão em linguagem Python, também certificado pela FIAP, partindo de lógica de programação, passando por banco de dados, frameworks flask e django, frontend html,css e js e finalizando com introduçaõ a cultura devops e cloud computing.
+
+Estudo atual: 
+
+.Java backend - collection e excessões.
+    
 <div align="center">
 
   Languages 🌐
@@ -18,16 +31,15 @@ Sou Arthur, estudante de Análise e Desenvolvimento de sistemas pela instituiç�
    <div>
    <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
-   <img src="https://img.shields.io/badge/python-022047?style=for-the-badge&logo=python&logoColor="/> 
+   <img src="https://img.shields.io/badge/Java-022047?style=for-the-badge&logo=Java&logoColor="/> 
    </div>
 <br>
   Tools 🛠️
 
   <div>
    <br>
-   <img src="https://img.shields.io/badge/flask-024704?style=for-the-badge&logo=flask&logoColor=black"/> 
+   <img src="https://img.shields.io/badge/Oracle DB-purple?style=for-the-badge&logo=Oracle&logoColor=white"/> 
    <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </div>
 
 <br>
@@ -41,6 +53,8 @@ Sou Arthur, estudante de Análise e Desenvolvimento de sistemas pela instituiç�
   <p>
   <a href="https://www.linkedin.com/in/arthur-bittencourt-34b12922a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@arthur_bittencourt-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:arthur_bittencourt1997@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-arthur_bittencourt1997@outlook.com-red?style=flat&logo=microsoft"></a>
+    <a href="11 78088047"><img alt="Whatssap" src="https://img.shields.io/badge/Whatssap-11978088047-red?style=flat&logo=microsoft"></a>
+   
   </p>
    
 </div>
