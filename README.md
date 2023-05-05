@@ -1,7 +1,6 @@
+ <div style="display: inline-block">
  <img width="100%" height="350px" src="https://fronty.com/static/uploads/python/html.png"  alt="Github Readme Stats"/>
-
-<div style="display: inline-block">
- <img  width="100px" src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw"  alt="Github Readme Stats"/> <h1><strong>Bem vindo ao meu github!</h1>
+ <img  width="90px" src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw" alt="Github Readme Stats"/><h1><strong>Bem vindo ao meu Github!</h1>
 </div>
 
  
