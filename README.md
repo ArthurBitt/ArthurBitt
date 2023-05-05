@@ -38,8 +38,9 @@ Estudo atual:
 
   <div>
    <br>
-   <img src="https://img.shields.io/badge/Oracle DB-purple?style=for-the-badge&logo=Oracle&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Oracle DB-white?style=for-the-badge&logo=Oracle&logoColor=red"/> 
    <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Intellij-black?style=for-the-badge&logo=JETbrains&logoColor=white"/> 
   </div>
 
 <br>
