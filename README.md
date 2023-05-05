@@ -46,9 +46,9 @@
   
 <p align = 'center'>Github Stats✔️</p>
 <div style= 'display: inline block' align="center" >
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=10&theme=monokai&hide&hide_border=true&border_radius=40&layout=compact&card_width=10" alt="ArthurBitt :: Top Langs" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=monokai&hide_border=true&border_radius=40&layout=compact&card_width=20" alt="ArthurBitt" />
-<img src="https://github-readme-stats.vercel.app/api?username=ArthurBitt&show_icons=true&theme=monokai&hide_border=true&border_radius=40&layout=compact&card_width=20" alt="ArthurBitt :: Profile Stats" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=10&theme=monokai&hide&hide_border=true&border_radius=30&layout=compact&card_width=40" alt="ArthurBitt :: Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=monokai&hide_border=true&border_radius=30&layout=compact&card_width=40" alt="ArthurBitt" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArthurBitt&show_icons=true&theme=monokai&hide_border=true&border_radius=30&layout=compact&card_width=20" alt="ArthurBitt :: Profile Stats" />
 
 </div>
 
