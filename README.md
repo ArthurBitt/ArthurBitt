@@ -45,7 +45,7 @@
 <div style= 'display: inline block'>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=tokyonight" alt="ArthurBitt" />
 <img src="https://github-readme-stats.vercel.app/api?username=ArthurBitt&show_icons=true&theme=tokyonight" alt="ArthurBitt :: Profile Stats" />
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=10&theme=tokyonight&layout=compact" alt="ArthurBitt :: Top Langs" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=10&theme=tokyonight&layout=compact" alt="ArthurBitt :: Top Langs" />
 </div>
 
 <hr>
