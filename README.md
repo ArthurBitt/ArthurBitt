@@ -24,10 +24,13 @@
   
   <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-022047?style=for-the-badge&logo=Java&logoColor="/>
-  <img src="https://img.shields.io/badge/Oracle DB-white?style=for-the-badge&logo=Oracle&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Java-beige?style=for-the-badge&logo=openjdk&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Oracle DB-gray?style=for-the-badge&logo=Oracle&logoColor=red"/>
   <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intellij-black?style=for-the-badge&logo=JETbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij-black?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VScode-blue?style=for-the-badge&logo=Visual-Studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
   
 </div>
 <br>
@@ -42,10 +45,10 @@
 <br>
   
 <p align = 'center'>Github Stats✔️</p>
-<div style= 'display: inline block'>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=tokyonight" alt="ArthurBitt" />
-<img src="https://github-readme-stats.vercel.app/api?username=ArthurBitt&show_icons=true&theme=tokyonight" alt="ArthurBitt :: Profile Stats" />
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=10&theme=tokyonight&layout=compact" alt="ArthurBitt :: Top Langs" />
+<div style= 'display: inline block' align="center" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=monokai&hide_border=true&border_radius=40&layout=compact&card_width=20" alt="ArthurBitt" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArthurBitt&show_icons=true&theme=monokai&hide_border=true&border_radius=40&layout=compact&card_width=20" alt="ArthurBitt :: Profile Stats" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=10&theme=monokai&hide&hide_border=true&border_radius=40&layout=compact&card_width=10" alt="ArthurBitt :: Top Langs" />
 </div>
 
 <hr>
