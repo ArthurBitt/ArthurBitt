@@ -7,7 +7,7 @@
 
  
 
- <p>Sou Arthur,estou no 3º semestre de Análise e Desenvolvimento de Sistemasna pela FIAP, constantemente procuro expandir meus conhecimentos em tecnologia com forte interesse em Desenvolvimento Java.
+ <p>Sou Arthur,estou no 3º semestre de Análise e Desenvolvimento de Sistemas na FIAP, constantemente procuro expandir meus conhecimentos em tecnologia com forte interesse em Desenvolvimento Java.
 
 ```Na faculdade:```
 
