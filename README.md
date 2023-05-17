@@ -65,6 +65,7 @@
 <br>
 
 
+><a href = "https://stackoverflow.com/users/21582360/arthur-bittencourt"> ```StackOverflow```</a>
 ><a href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> ```Linkedin```</a>
 >```Gmail: arthurbabolat@gmail.com```
 >```Outlook: arthur_bittencourt1997@outlook.com```
