@@ -51,7 +51,8 @@
   
 <p align = 'center'>Github Stats✔️</p>
 <div style= 'display: inline block' align="center" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=monokai&hide_border=true&border_radius=30&layout=compact&card_width=40" alt="ArthurBitt" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=8&count_private=false&&theme=react&hide_border=true&bg_color=0D1117" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="ArthurBitt" />
 
 
 </div>
