@@ -30,12 +30,14 @@
   <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-beige?style=for-the-badge&logo=openjdk&logoColor=orange"/>
+   <img src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Oracle DB-gray?style=for-the-badge&logo=Oracle&logoColor=red"/>
   <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intellij-black?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/VScode-blue?style=for-the-badge&logo=Visual-Studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
+  
   
 </div>
 <br>
@@ -53,7 +55,7 @@
 <div style= 'display: inline block' align="center" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=8&count_private=false&&theme=react&hide_border=true&bg_color=0D1117" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="ArthurBitt" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurbitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="arthurbitt" />
 
 </div>
 
@@ -61,6 +63,7 @@
 <br>
 <p align="center">Connect with Me 🌐</p>
 <br>
+
 
 ><a href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> ```Linkedin```</a>
 >```Gmail: arthurbabolat@gmail.com```
