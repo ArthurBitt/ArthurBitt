@@ -7,7 +7,7 @@
 
  
 
- <p>Sou Arthur,estou no 3º semestre de Análise e Desenvolvimento de Sistemas na FIAP, constantemente procuro expandir meus conhecimentos em tecnologia com forte interesse em Desenvolvimento Java.
+ <p>Sou Arthur, estou no 3º semestre de Análise e Desenvolvimento de Sistemas na FIAP, constantemente procuro expandir meus conhecimentos em tecnologia com forte interesse em Desenvolvimento Java.
 
 ```Na faculdade:```
 
@@ -67,6 +67,7 @@
 
 * 📌<a href = "https://stackoverflow.com/users/21582360/arthur-bittencourt"> ```StackOverflow```</a> 
 * 📌<a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> ```Linkedin```</a> 
+* 📌<a href = "https://twitter.com/ArthurAdd2Coffe"> ```Twitter```</a> 
 * 📌Gmail: ```arthurbabolat@gmail.com```
 * 📌Outlook : ```arthur_bittencourt1997@outlook.com```
  
