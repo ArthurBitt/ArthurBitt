@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-beige?style=for-the-badge&logo=openjdk&logoColor=orange"/>
    <img src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Oracle DB-gray?style=for-the-badge&logo=Oracle&logoColor=red"/>
+  <img src="https://img.shields.io/badge/SQL Developer-gray?style=for-the-badge&logo=Oracle&logoColor=red"/>
   <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intellij-black?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/VScode-blue?style=for-the-badge&logo=Visual-Studio-code&logoColor=white"/>
