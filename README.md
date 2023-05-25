@@ -5,8 +5,6 @@
 
 </div>
 
- 
-
  <p>Sou Arthur, estou no 3º semestre de Análise e Desenvolvimento de Sistemas na FIAP, constantemente procuro expandir meus conhecimentos em tecnologia com forte interesse em Desenvolvimento Java.
 
 ```Na faculdade:```
@@ -30,7 +28,7 @@
   <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-beige?style=for-the-badge&logo=openjdk&logoColor=orange"/>
-   <img src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/SQL Developer-gray?style=for-the-badge&logo=Oracle&logoColor=red"/>
   <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intellij-black?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
@@ -46,6 +44,8 @@
   <br>
    
   > - [Alura](https://cursos.alura.com.br/user/arthur-bittencourt1997)
+  > - [Pyhton básico](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/77762/c5dbccfffce0490a4e97c2c2e8a62e07/certificado.png)
+  > - [Pyhton imerssão](https://www2.fiap.com.br/inscricaoworkshopdobem/ImagemCertificado/5323EA15-20D2-42B3-A077-8B7036E6BFDD)
 
 </div>
 
