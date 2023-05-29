@@ -53,9 +53,9 @@
   
 <p align = 'center'>Github Stats✔️</p>
 <div style= 'display: inline block' align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurBitt&langs_count=8&count_private=false&&theme=react&hide_border=true&bg_color=0D1117" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurBitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="ArthurBitt" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arthurbitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="arthurbitt" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=8&count_private=false&&theme=react&hide_border=true&bg_color=0D1117" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="ArthurBitt" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthurbitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="arthurbitt" />
 
 </div>
 
