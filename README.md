@@ -1,43 +1,36 @@
- <div style="display: inline-block">
-<img width="120px" src="https://play-lh.googleusercontent.com/S70rI7VrwLic7_p-ax7iAOOopQhcPCzmqyLe5RLJmApTpkgTRaCwWsTNN1Uv1t_t3Pp5=w240-h480-rw" alt="Github Readme Stats"/> 
-<h1><strong> 
- Bem vindo ao meu Github!</h1> 
+## Olá, sou Arthur!
 
-</div>
+<img href = ""></img>
 
- <p>Sou Arthur, estou no 3º semestre de Análise e Desenvolvimento de Sistemas na FIAP, constantemente procuro expandir meus conhecimentos em tecnologia com forte interesse em Desenvolvimento Java.
+### Sobre Mim:
 
-```Na faculdade:```
+ <p>Estou no 3º semestre de Análise e Desenvolvimento de Sistemas na FIAP </p>
 
- As linguagens que tive maior contato até o momento foram o Java e o Python para backend de aplicações. Já para o frontend, estudei até o momento JS, HTML e CSS. O SGBD Oracle SQL developer foi a ferramenta que utilizei para estudar as divisões da linguegem SQL até o momento. 
+### Estudo atual: 
 
-```Fora da faculdade:```
-
- Nano course de Python com certificação de 80h emitido pela FIAP 
-
- Curso de imersão em linguagem Python, também certificado pela FIAP, partindo de lógica de programação, passando por banco de dados, frameworks flask e django, frontend html,css e js e finalizando com introduçaõ a cultura devops e cloud computing.
-
-```Estudo atual: ```
-
- Java backend - collection e excessões.
+ Java backend - Spring Framework e JDBC.
  
-``` Languages & Tools```
-<br>
+### Tools
  <div style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Github-191970?style=for-the-badge&logo=Github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Trello-191970?style=for-the-badge&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij-191970?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-191970?style=for-the-badge&logo=git&logoColor=white">
+  </div>
+ 
+ ### Skills
+  <div style="display: inline-block;">
   
-  
-  
-  <img src="https://img.shields.io/badge/Java-beige?style=for-the-badge&logo=openjdk&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/SQL Developer-gray?style=for-the-badge&logo=Oracle&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Intellij-black?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/Java-191970?style=for-the-badge&logo=openjdk&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=darkblue"/>
+  <img src="https://img.shields.io/badge/Spring-191970?style=for-the-badge&logo=SpringBoot&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Flask-191970?style=for-the-badge&logo=Flask&logoColor=white"/>
+
   
 </div>
 <br>
 
-  ``` Courses and Certifications 📜 ```
+### Courses and Certifications 📜 
   <br>
    
   > - [Alura](https://cursos.alura.com.br/user/arthur-bittencourt1997)
@@ -56,27 +49,14 @@
 
 </div>
 
-<hr>
-<br>
-<p align="center">Connect with Me 🌐</p>
-<br>
+Social </p>
 
-
-* 📌<a href = "https://stackoverflow.com/users/21582360/arthur-bittencourt"> ```StackOverflow```</a> 
-* 📌<a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> ```Linkedin```</a> 
-* 📌<a href = "https://twitter.com/ArthurAdd2Coffe"> ```Twitter```</a> 
-* 📌Gmail: ```arthurbabolat@gmail.com```
-* 📌Outlook : ```arthur_bittencourt1997@outlook.com```
- 
-
-
+<a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img src="https://img.shields.io/badge/Linkedin-191970?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
 
 
 
 
  
-
-  
 
 
 
