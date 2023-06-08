@@ -8,22 +8,20 @@
 
 ### Estudo atual: 
 
- Java backend - Spring Framework e JDBC.
+ 
  
 ### Tools
  <div style="display: inline-block;">
   <img src="https://img.shields.io/badge/Github-191970?style=for-the-badge&logo=Github&logoColor=white"/>
  <img src="https://img.shields.io/badge/Trello-191970?style=for-the-badge&logo=Trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intellij-191970?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pycharm-191970?style=for-the-badge&logo=Pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-191970?style=for-the-badge&logo=git&logoColor=white">
   </div>
  
  ### Skills
   <div style="display: inline-block;">
-  
-  <img src="https://img.shields.io/badge/Java-191970?style=for-the-badge&logo=openjdk&logoColor=orange"/>
+ 
   <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=darkblue"/>
-  <img src="https://img.shields.io/badge/Spring-191970?style=for-the-badge&logo=SpringBoot&logoColor=green"/>
   <img src="https://img.shields.io/badge/Flask-191970?style=for-the-badge&logo=Flask&logoColor=white"/>
 
   
