@@ -1,14 +1,13 @@
-## Olá, sou Arthur!
+## Hi, I'm Arthur!
 
-<img href = ""></img>
 
-### Sobre Mim:
+### About me:
 
- <p>Estou no 3º semestre de Análise e Desenvolvimento de Sistemas na FIAP </p>
+I'm a fullstack Python dev
 
-### Estudo atual: 
+I'm in the last year of Systems Analysis and Development at FIAP, learning about analysis and data processing in python, seeking to specialize in the language and reach a new level of code quality
 
- 
+<img width="100%" src = "https://i.pinimg.com/originals/7d/ca/5d/7dca5dcc7559704f10ac1e7ddf94af10.png"></img> 
  
 ### Tools
  <div style="display: inline-block;">
@@ -21,7 +20,7 @@
  ### Skills
   <div style="display: inline-block;">
  
-  <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=darkblue"/>
+  <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=yeallo"/>
   <img src="https://img.shields.io/badge/Flask-191970?style=for-the-badge&logo=Flask&logoColor=white"/>
 
   
