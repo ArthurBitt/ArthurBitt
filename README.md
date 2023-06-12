@@ -20,7 +20,7 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
  ### Skills
   <div style="display: inline-block;">
  
-  <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=yeallo"/>
+  <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Flask-191970?style=for-the-badge&logo=Flask&logoColor=white"/>
 
   
