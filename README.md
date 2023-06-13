@@ -7,22 +7,27 @@ I'm a fullstack Python developer.
 
 I'm in the last year of Systems Analysis and Development at FIAP, learning about analysis and data processing in python, seeking to specialize in the language and reach a new level of code quality
 
-<img width="100%" src = "https://i.pinimg.com/originals/7d/ca/5d/7dca5dcc7559704f10ac1e7ddf94af10.png"></img> 
+<img width="100%" src = "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"></img> 
  
 ### Tools
 
  <div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Github-191970?style=for-the-badge&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-191970?style=for-the-badge&logo=Trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pycharm-191970?style=for-the-badge&logo=Pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-191970?style=for-the-badge&logo=git&logoColor=white">
+<img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+ <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ <img width="4%" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+  
   </div>
  
- ### Skills
  
-  <div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Flask-191970?style=for-the-badge&logo=Flask&logoColor=white"/>
+  ### Skills
+  
+ <div style="display: inline-block;">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  
 </div>
 
 
@@ -42,7 +47,7 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
 
 ### Social 
 
-<a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img src="https://img.shields.io/badge/Linkedin-191970?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
+<a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
 
 
 
