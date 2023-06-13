@@ -25,7 +25,7 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
   
  <div style="display: inline-block;">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg">
+  <!--<img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg"> -->
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   
  ### Social 
