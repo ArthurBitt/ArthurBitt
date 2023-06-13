@@ -38,10 +38,11 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
   > - [Pyhton shift](https://www2.fiap.com.br/inscricaoworkshopdobem/ImagemCertificado/5323EA15-20D2-42B3-A077-8B7036E6BFDD)
 </div>
  
-<p align = 'center'>Github Stats✔️</p>
+<h3 align = 'center'>Github Stats✔️</h3>
 <div style= 'display: inline block' align="center" >
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=8&count_private=false&&theme=react&hide_border=true&bg_color=0D1117" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurBitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="ArthurBitt" />
+ </div>
+ <div style= 'display: inline block' align="center" >
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthurbitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="arthurbitt" />
 </div>
 
