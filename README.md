@@ -28,7 +28,12 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
  <img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   
+ ### Social 
+
+<a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
 </div>
+
+
 
 
 ### Courses and Certifications 📜 
@@ -46,9 +51,7 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthurbitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="arthurbitt" />
 </div>
 
-### Social 
 
-<a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
 
 
 
