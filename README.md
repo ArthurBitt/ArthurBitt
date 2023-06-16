@@ -41,6 +41,9 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
   > - [Alura page](https://cursos.alura.com.br/user/arthur-bittencourt1997)
   > - [Pyhton](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/77762/c5dbccfffce0490a4e97c2c2e8a62e07/certificado.png)
   > - [Pyhton shift](https://www2.fiap.com.br/inscricaoworkshopdobem/ImagemCertificado/5323EA15-20D2-42B3-A077-8B7036E6BFDD)
+  > - [Web Prototyping](https://on1.fiap.com.br/updown/DocumentosAssinados/99b995a2-c12a-40bf-90b4-17207d11498c.pdf)
+  > - [Web Development & Design](https://www2.fiap.com.br/updown/DocumentosAssinados/bf43aebf-df3f-43aa-9288-ff780340e1e5.pdf)
+  
 </div>
  
 <h3 align = 'center'>Github Stats✔️</h3>
