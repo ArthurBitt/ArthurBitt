@@ -3,7 +3,7 @@
 
 ### About me:
 
-I'm a fullstack Python developer.
+I'm a Python web developer.
 
 I'm in the last year of Systems Analysis and Development at FIAP, learning about analysis and data processing in python, seeking to specialize in the language and reach a new level of code quality
 
@@ -32,9 +32,6 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
 
 <a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
 </div>
-
-
-
 
 ### Courses and Certifications 📜 
    
