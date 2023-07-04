@@ -29,9 +29,11 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   
  ### Social 
-
 <a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
 </div>
+
+ ### Porfolio
+ <a href = "https://arthur-bittencourt-portfolio.onrender.com">📁</a>
 
 ### Courses and Certifications 📜 
    
