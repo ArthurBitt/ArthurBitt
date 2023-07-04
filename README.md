@@ -33,7 +33,7 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
 </div>
 
  ### Porfolio
- <a href = "https://arthur-bittencourt-portfolio.onrender.com">📁</a>
+ <a href = "https://arthur-bittencourt-portfolio.onrender.com"><img width="4%" src="https://www.svgrepo.com/show/452205/folder.svg"></a>
 
 ### Courses and Certifications 📜 
    
