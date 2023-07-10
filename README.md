@@ -31,6 +31,7 @@ HCIA-CLOUD SERVICE in ICT Academy HUAWEI
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--<img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg"> -->
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+
   
  ### Social 
 <a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
