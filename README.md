@@ -16,10 +16,11 @@ Django and React for web development
 ### Tools
 
  <div style="display: inline-block;">
-<img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+ <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
  <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ 
 
   
   </div>
@@ -31,7 +32,7 @@ Django and React for web development
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--<img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg"> -->
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
   
  ### Social 
 <a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
