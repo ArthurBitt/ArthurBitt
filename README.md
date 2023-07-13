@@ -20,19 +20,37 @@ Django and React for web development
  <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
  
+
+  
+  </div>
+
+
+  ### Frameworks
+
+ <div style="display: inline-block;">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ <!--  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <!--<img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg"> --> 
 
   
   </div>
  
  
-  ### Skills
+  ### Languages
   
  <div style="display: inline-block;">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--<img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg"> -->
- <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
- <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
+ <!--  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> -->
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+  
+ 
   
  ### Social 
 <a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
