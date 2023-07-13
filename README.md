@@ -9,7 +9,7 @@ I'm in the last year of Systems Analysis and Development at FIAP, learning about
 
 ### Currently studyng:
 
-Django for web development and React
+Django and React for web development 
 
 <img width="100%" src = "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"></img> 
  
