@@ -32,9 +32,10 @@ Django framework and cloud computing.
 
  <div style="display: inline-block;">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
- <!--  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
  <!--<img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg"> --> 
 
   
