@@ -3,7 +3,7 @@
 
 ### About me:
 
-I'm a Python Data Scientis and web developer.
+I'm a Python Data Scientist and web developer.
 
 I'm in the last year of Systems Analysis and Development at FIAP, learning about analysis and data processing in python, seeking to specialize in the language and reach a new level of code quality
 
