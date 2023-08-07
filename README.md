@@ -3,13 +3,12 @@
 
 ### About me:
 
-I'm a Python Data Scientist and web developer.
+I'm data engineering.
 
-I'm in the last year of Systems Analysis and Development at FIAP, learning about analysis and data processing in python, seeking to specialize in the language and reach a new level of code quality
+I'm in the last year of Systems Analysis and Development at FIAP.
 
 ### Currently studyng:
 
-Data Science and cloud computing.
 
 <img width="100%" src = "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"></img> 
  
