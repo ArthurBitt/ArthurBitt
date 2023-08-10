@@ -3,7 +3,7 @@
 
 ### About me:
 
-I'm data engineering.
+
 
 I'm in the last year of Systems Analysis and Development at FIAP.
 
