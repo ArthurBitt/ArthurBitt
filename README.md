@@ -3,13 +3,10 @@
 
 ### About me:
 
-
-
 I'm in the last year of Systems Analysis and Development at FIAP.
 
 ### Currently studyng:
 Relational Databases focus on Postgres, AWS and Pyspark
-
 
 <img width="100%" src = "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"></img> 
 
@@ -21,12 +18,7 @@ Relational Databases focus on Postgres, AWS and Pyspark
  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />   
  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />         
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
- <!--<img width="4%" src="https://www.svgrepo.com/show/353657/django-icon.svg"> --> 
 
-  
-  </div>
- 
   
  ### Social 
 <a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt-34b12922a"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
