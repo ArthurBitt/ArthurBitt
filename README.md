@@ -6,17 +6,20 @@
 I'm in the last year of Systems Analysis and Development at FIAP.
 
 ### Currently studyng:
-Dataengineering and BI
+Dataengineering
 
 <img width="100%" src = "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"></img> 
 
   ### Stack
 
- <div style="display: inline-block;">
- <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+ <div style="display: inline-block;"> 
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />   
- <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />         
+ <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
+ <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />      
+ <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /> 
+ <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> 
+ <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   
