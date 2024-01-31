@@ -33,11 +33,9 @@ To take a big dive into POO and Backend development :
  
 <a astyle="display: block;" href = ""> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 
-<h3 align = 'center'>Github Stats✔️</h3>
-<div style= 'display: inline block' align="center" >
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurBitt&langs_count=8&count_private=false&&theme=react&hide_border=true&bg_color=0D1117" /> 
- </div>
- <div style= 'display: inline block' align="center" >
+### Github Stats
+
+<div style= 'display: inline block'>
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthurbitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="arthurbitt" />
 </div>
 
