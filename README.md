@@ -13,7 +13,7 @@ i'm studyng
 
 <img width="80%" src = "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"></img> 
 
-### Stack
+### My Tech Stack
 
  <div style="display: inline-block;"> 
  <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
