@@ -9,10 +9,7 @@ I'm do the magic behind the curtains
 
 i'm studyng 
 
-* Java Backend
-* Java Persistance Frameworks and Spring
-
-To take a big dive into POO and Backend development :
+* Devops 
 
 <img width="80%" src = "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif"></img> 
 
