@@ -7,9 +7,7 @@ I'm do the magic behind the curtains
 
 ### Currently studyng:
 
-i'm studyng 
-
-* Devops 
+* Devops
 
 ### My Tech Stack
 
