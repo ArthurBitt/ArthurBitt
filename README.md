@@ -7,7 +7,7 @@ I'm do the magic behind the curtains
 
 ### Currently studyng:
 
-* Devops
+* Cloud Computing - Aws
 
 ### My Tech Stack
 
