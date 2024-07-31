@@ -3,7 +3,7 @@
 
 ### About me:
 
-I make code to buy coffee
+I code to buy coffee, and drink coffee to code more
 
 ### Currently studyng:
 
