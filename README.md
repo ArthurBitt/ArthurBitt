@@ -9,16 +9,9 @@ I code to buy coffee, and drink coffee to code more
 
 * Devops
 
-### My Tech Stack
+### Stack
 
- <div style="display: inline-block;"> 
- <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
- <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
- <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
- <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
- <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" /> 
- <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> 
+ [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,django,python,selenium,postgres,html,css,javascript,redis,docker&perline=3)](https://skillicons.dev)
  
  ### Social 
  
