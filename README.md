@@ -11,7 +11,7 @@ I code to buy coffee, and drink coffee to code more
 
 ### Stack
 
- [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,django,python,selenium,postgres,html,css,javascript,redis,docker&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,django,python,selenium,redis,html,css,javascript,postgres,docker&perline=3)](https://skillicons.dev)
  
  ### Social 
  
