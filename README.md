@@ -15,14 +15,11 @@ I code to buy coffee, and drink coffee to code more
  
  ### Social 
  
-<a astyle="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt/"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<a style="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt/"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 
 ### Github Stats
 
-<div style= 'display: inline block'>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthurbitt&show_icons=true&theme=react&hide_border=true&border_radius=30&_border=true&bg_color=0D1117&card_width=40" alt="arthurbitt" />
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&layout=compact&theme=onedark&hide=makefile,procfile,dockerfile)](https://github.com/ArthurBitt)
 
 
 
