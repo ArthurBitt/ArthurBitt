@@ -1,25 +1,24 @@
-## Hi, I'm Arthur Backend Developer!
+## Hi, I'm Arthur fullcycle developer!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&layout=compact&theme=onedark&hide=makefile,procfile,dockerfile)](https://github.com/ArthurBitt)
 
 ### About me:
-
-I code to buy coffee, and drink coffee to code more
-
-### Currently studyng:
-
-* Devops
-
-### Stack
-
- [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,django,python,selenium,redis,html,css,javascript,postgres,docker&perline=3)](https://skillicons.dev)
- 
- ### Social 
+ A passionate developer dedicated to building and sustaining scalable and intelligent solutions. I specialize in fullcycle developement, focused in Backend and devops practices.
  
 <a style="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt/"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 
-### Github Stats
+Key Areas of Expertise:
+- [ ] Software Architecture – Clean Architecture, Microservices, Domain-Driven Design (DDD)
+- [ ] Cloud & DevOps – AWS, Prometheus and Grafana, Docker, CI/CD
+- [ ] Full Stack Development – Django, Flask,Fastapi, JavaScript, CSS, HTML
+- [ ] Databases & Big Data – Postgres, MongoDB
+      
+### Tech Stack
+ [![My Skills](https://skillicons.dev/icons?i=docker,prometheus,grafana,nginx,python,go,bash,flask,fastapi,django,selenium,redis,postgres,&perline=20)](https://skillicons.dev)
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&layout=compact&theme=onedark&hide=makefile,procfile,dockerfile)](https://github.com/ArthurBitt)
+
+
 
 
 
