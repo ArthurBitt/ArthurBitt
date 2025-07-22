@@ -4,8 +4,6 @@
 
 ### About me:
  A passionate dedicated to building and sustaining scalable and intelligent solutions. I specialize in sowftware enginering, focused in Backend microsservices and devops practices.
- 
-<a style="display: block;" href = "https://www.linkedin.com/in/arthur-bittencourt/"> <img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 
 Key Areas of Expertise:
 - [ ] Cloud & DevOps – Railway, MGC, AWS, Prometheus and Grafana, Docker, Actions CI/CD
