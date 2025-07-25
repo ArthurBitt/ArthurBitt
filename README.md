@@ -1,13 +1,33 @@
-## Hi, I'm Arthur!
+## 👋 Hi, I'm Arthur!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&layout=compact&theme=onedark&hide=makefile,procfile,mako)](https://github.com/ArthurBitt)
+I'm a **Software Engineer** based in São Paulo, Brazil, with over **3 years of experience** building and maintaining scalable backend systems. I specialize in **Python** and **Go**, and my passion lies in crafting robust microservices, automating infrastructure, and designing cloud-native architectures.
 
-### About me:
- A passionate dedicated to building and sustaining scalable and intelligent solutions. I specialize in software enginering, focused in backend microsservices and devops practices.
+---
+### 🧠 About Me
 
-      
+- 💻 Backend-focused: Microservices in **Python** and **Go**  
+- ⚙️ DevOps-driven: Infrastructure as Code, CI/CD automation  
+- 🌐 API Design: REST, gRPC, GraphQL  
+- 🗄️ Databases: PostgreSQL, Redis, MongoDB  
+- 📦 Cloud-native: Docker, Nginx, Prometheus, Grafana  
+- 🌍 Based in São Paulo, Brazil  
+
+---
+
+### 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBitt&layout=compact&theme=onedark&hide=makefile,procfile,mako)](https://github.com/ArthurBitt) 
+
+---
 ### Tech Stack
- [![My Skills](https://skillicons.dev/icons?i=docker,prometheus,grafana,nginx,python,go,bash,flask,fastapi,django,selenium,redis,postgres,&perline=20)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,go,bash&perline=3)](https://skillicons.dev)
+ <br>
+ [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,django&perline=3)](https://skillicons.dev)
+   <br>
+ [![My Skills](https://skillicons.dev/icons?i=redis,postgres,mongo&perline=3)](https://skillicons.dev)
+   <br>
+ [![My Skills](https://skillicons.dev/icons?i=docker,prometheus,grafana,nginx&perline=3)](https://skillicons.dev)
+
  
 
 
